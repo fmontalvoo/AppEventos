@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">AppEventos</string>
+    <string name="registro">Registro Usuario</string>
+    <string name="lista">Lista Eventos</string>
+    <string name="lblUsuario">Usuario:</string>
+    <string name="lblClave">Clave:</string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtClave">Clave</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnRecordar">Recordar Clave</string>
+    <string name="btnRegistrar_Usu">Registrar Usuario</string>
+    <string name="lblNombre">Nombre:</string>
+    <string name="lblApellido">Apellido:</string>
+    <string name="lblCorreo">Correo:</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellido">Apellido</string>
+    <string name="txtCorreo">Correo</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="lblCodigo">Codigo:</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_lista">Lista Eventos</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lblDescripcion">Descripcion:</string>
+    <string name="lblLatitud">Latitud:</string>
+    <string name="lblLongitud">Longitud:</string>
+    <string name="lblEstado">Estado:</string>
+    <string name="lblRecordatorio">Recordatorio:</string>
+    <string name="lblAcceso">Acceso:</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtEstado">Estado</string>
+    <string name="txtRecordatorio">Recordatorio</string>
+    <string name="txtAcceso">Acceso</string>
+    <string name="btnMaps">Google Maps</string>
+    <string name="txtLatitud">Latitud</string>
+    <string name="txtLongitud">Longitud</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="lblFecha">Fecha:</string>
+    <string name="txtFecha">Fecha</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="title_activity_contactos">Contactos</string>
+    <string name="title_activity_eventos">Crear Evento</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="title_activity_invitacion">Invitar Evento</string>
+    <string name="title_activity_invitar">Invitar Amigos</string>
+    <string name="title_activity_amigos">Amigos</string>
+    <string name="btnInvitar">Invitar</string>
+    <string name="btnAsistire">Asistire</string>
+    <string name="btnInteresa">Me Interesa</string>
+    <string name="btnNo">No Asistire</string>
+    <string name="lblTelefono">Telefono:</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="checkRecordar">Recordar</string>
+</resources>

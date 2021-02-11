@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/mnCrear"
+    android:title="Crear Evento" />
+<item android:id="@+id/mnListarP"
+    android:title="Listar Eventos Publicos"/>
+<item android:id="@+id/mnListarV"
+    android:title="Listar Eventos Privados"/>
+<item android:id="@+id/mnListarM"
+      android:title="Mis Eventos"/>
+<item android:id="@+id/mnAmigos"
+    android:title="Amigos"/>
+<item android:id="@+id/mnCerrar"
+      android:title="Cerrar Sesion"/>
+</menu>
